@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2PKKmWp32zE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RC_Student_lab\\source\\repos\\ChatbotPOE\\ChatbotPOE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RC_Student_lab\\.nuget\\packages\\system.speech\\9.0.6\\system.speech.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

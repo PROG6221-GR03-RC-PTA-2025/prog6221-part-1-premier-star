@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xpCW/oA9YvU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RC_Student_lab\\source\\repos\\poePart2\\poePart2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RC_Student_lab\\.nuget\\packages\\system.speech\\9.0.5\\system.speech.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
